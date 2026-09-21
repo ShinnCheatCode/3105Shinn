@@ -1,0 +1,7 @@
+// Cầu nối PosterBoard wallpaper lab.
+import Foundation
+
+final class WallpaperBridge {
+    func install(packagePath: String) -> Bool { return false }
+    func remove(packageID: String) -> Bool { return false }
+}
